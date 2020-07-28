@@ -6,4 +6,4 @@ Collect the smaller dots to gain score while avoiding the larger moving dots.
 
 Changes to come:
 
-Mode for removing enemy dots after a certain amount of score is reached.
+- [ ] Mode for removing enemy dots after a certain amount of score is reached.
